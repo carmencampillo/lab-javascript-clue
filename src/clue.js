@@ -125,5 +125,7 @@ return mistery;
 
 // ITERATION 3
 
-function revealMystery() {}
+function revealMystery(envelope) {
+return ${envelope.suspect.firstName} ${envelope.suspect.lastName} killer mr. boddy using the ${envelope.weapon.name} in the ${envelope.room}
 
+};
