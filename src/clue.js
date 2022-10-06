@@ -119,7 +119,7 @@ function pickMystery() {
         room: randomRoom
 
     }
-return mistery;
+return mistery ;
 }
 
 
